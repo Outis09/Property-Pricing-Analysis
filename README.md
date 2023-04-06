@@ -2,7 +2,7 @@
 
 ## Project Description
 
-In this project, I analyzed the pricing of various property listings in Melbourne. The aaim of the analysis was to identify the factors that drive the pricing of properties.
+In this project, I analyzed the pricing of various property listings in Melbourne. The aim of the analysis was to identify the factors that drive the pricing of properties.
 
 The data was messy, therefore I performed data cleaning before I started the analysis.
 
@@ -10,4 +10,4 @@ I leveraged statistical tests like Pearson Product-Moment Correlation Coefficien
 
 I conducted univariate, bivariate and multivariate analysis to understand the distribution of the variables and how they affected each other.
 
-By the end of the analysis, I uncovered some variables that drive the pricing of property listings.
+By the end of the analysis, I identified some variables that drive the pricing of property listings.
